@@ -1,5 +1,3 @@
-package hwalgo02_서울_07반_김유진;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
