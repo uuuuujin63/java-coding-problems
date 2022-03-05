@@ -71,8 +71,6 @@ class Solution {
 		int TC, MARK;
 		long tmp, tc_time_cost, total_time_cost = 0;
 
-		// System.setIn(new java.io.FileInputStream("res/sample_input.txt"));
-
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
